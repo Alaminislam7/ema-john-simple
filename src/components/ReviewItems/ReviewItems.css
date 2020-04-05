@@ -1,0 +1,6 @@
+.reviewitem{
+    margin-left: 100px;
+    padding:5px;
+    border-bottom: 1px solid antiquewhite;
+    display: flex;
+}
